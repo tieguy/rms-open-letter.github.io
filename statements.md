@@ -2,6 +2,9 @@
 title: Statements by other organizations on the reappointment of RMS to the FSF board
 ---
 
+This list tracks statements that have, in some way, critiqued the reappointment of RMS to the FSF board, tracked here for convenience. 
+They are _not_ necessarily endorsements of the main "open letter", and it is not our intent to imply that by including them here.
+
 - [April](https://www.april.org/en/richard-stallman-back-board-free-software-foundation)
 - [Document Foundation](https://blog.documentfoundation.org/blog/2021/03/25/statement-on-rms-and-fsf/)
 - [EFF](https://www.eff.org/deeplinks/2021/03/statement-re-election-richard-stallman-fsf-board)
